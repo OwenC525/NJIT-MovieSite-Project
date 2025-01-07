@@ -39,6 +39,10 @@ body {
     border: 2px dashed black;
 }
 
+.poster {
+    width: 500px;
+    height: 750px;
+}
 /* This stylizes your "Poster X of Y" text */
 .imageInfo {
 	color: #959595;
